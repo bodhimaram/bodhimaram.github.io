@@ -1,3 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BodhiMaram</title><link>https://bodhimaram.github.io/</link><description>My Research Areas</description><atom:link href="https://bodhimaram.github.io/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2019 &lt;a href="mailto:bytegeekllc@gmail.com"&gt;Shakthi Sambasivam&lt;/a&gt; </copyright><lastBuildDate>Sun, 10 Mar 2019 23:59:21 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Test</title><link>https://bodhimaram.github.io/posts/test/</link><dc:creator>Shakthi Sambasivam</dc:creator><description>&lt;p&gt;
-Write your post here.&lt;/p&gt;</description><guid>https://bodhimaram.github.io/posts/test/</guid><pubDate>Sun, 10 Mar 2019 23:59:09 GMT</pubDate></item></channel></rss>
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BodhiMaram</title><link>https://bodhimaram.github.io/</link><description>My Research Areas</description><atom:link href="https://bodhimaram.github.io/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2019 &lt;a href="mailto:bytegeekllc@gmail.com"&gt;Shakthi Sambasivam&lt;/a&gt; </copyright><lastBuildDate>Mon, 11 Mar 2019 00:41:29 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Test</title><link>https://bodhimaram.github.io/posts/test/</link><dc:creator>Shakthi Sambasivam</dc:creator><description>&lt;div id="outline-container-orgd3b7c61" class="outline-2"&gt;
+&lt;h2 id="orgd3b7c61"&gt;Week 10&lt;/h2&gt;
+&lt;div class="outline-text-2" id="text-orgd3b7c61"&gt;
+&lt;/div&gt;
+&lt;div id="outline-container-org3a96f0d" class="outline-3"&gt;
+&lt;h3 id="org3a96f0d"&gt;Convert C++ to C&lt;/h3&gt;
+&lt;/div&gt;
+
+&lt;div id="outline-container-org67eed9b" class="outline-3"&gt;
+&lt;h3 id="org67eed9b"&gt;MOdify Makefile&lt;/h3&gt;
+&lt;/div&gt;
+
+&lt;div id="outline-container-org0895c00" class="outline-3"&gt;
+&lt;h3 id="org0895c00"&gt;Include GLib&lt;/h3&gt;
+&lt;/div&gt;
+
+&lt;div id="outline-container-org17fe073" class="outline-3"&gt;
+&lt;h3 id="org17fe073"&gt;Complete CreateRelativePointer and pmalloc&lt;/h3&gt;
+&lt;/div&gt;
+
+&lt;div id="outline-container-org8b56269" class="outline-3"&gt;
+&lt;h3 id="org8b56269"&gt;Implement Pool Manager for Managing Relative Pointer&lt;/h3&gt;
+&lt;/div&gt;
+
+&lt;div id="outline-container-orgb58b369" class="outline-3"&gt;
+&lt;h3 id="orgb58b369"&gt;Implement the List working for all Use Cases&lt;/h3&gt;
+&lt;/div&gt;
+
+&lt;div id="outline-container-orgc5fc244" class="outline-3"&gt;
+&lt;h3 id="orgc5fc244"&gt;Implement Binary Tree&lt;/h3&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description><guid>https://bodhimaram.github.io/posts/test/</guid><pubDate>Sun, 10 Mar 2019 23:59:09 GMT</pubDate></item></channel></rss>
